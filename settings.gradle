@@ -1,0 +1,2 @@
+rootProject.name = "TekAppStore1"
+include ':app'
